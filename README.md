@@ -1,4 +1,4 @@
-# React+Redux+Router
+# React + Redux + Router
 
 ### Before running this project, input "npm install" in the terminal. This will automatically download modules that will be used in this project
 
@@ -14,15 +14,13 @@ redux-devtools-extension
 Build Basic Router Structure
 
 
-## Using BootStrap
+## BootStrap
 Official website: getbootstrap. com
 Chinese website: https://www.bootcss.com/
 Bootstrap is the most popular HTML, CSS, and JS framework used for developing responsive layout, mobile first web projects.
 
-CDN:网络地址
-
-## 使用validator
-参考地址：https://github.com/validatorjs/validator.js
+## validator
+Reference：https://github.com/validatorjs/validator.js
 
 ## Cross domain solution
 1. Backend: cors third-party
